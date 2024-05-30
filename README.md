@@ -6,7 +6,6 @@
 👩‍🎓 Informatics Student at Universitas Pembangunan Jaya, South Tangerang<br>
 💻 Interested in Full Stack Developer, Cyber Security and UI/UX Designer<br>
 🎨 Programmer who love arts too<br>
----
 <br>
 
 ## 🌐 Socials:
