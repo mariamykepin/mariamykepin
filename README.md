@@ -7,6 +7,8 @@
 💻 Interested in Full Stack Developer, Cyber Security and UI/UX Designer<br>
 🎨 Programmer who love arts too<br>
 ---
+<br>
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mariamyk03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariasunlla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-maristella-yosephine-kumaat-2a8b61248/) 
 
